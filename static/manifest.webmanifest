@@ -1,0 +1,13 @@
+{
+	"name": "Pneuservis Batovec",
+	"short_name": "Pneubat",
+	"description": "Pneuservis Teplice — přezutí, ALU kola, odvoz vozidla",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#0F1117",
+	"theme_color": "#E63B2E",
+	"lang": "cs",
+	"icons": [
+		{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+	]
+}

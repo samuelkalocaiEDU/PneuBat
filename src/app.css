@@ -1,0 +1,28 @@
+@import "@fontsource/barlow-condensed/600.css";
+@import "@fontsource/barlow-condensed/700.css";
+@import "@fontsource/barlow-condensed/800.css";
+@import "@fontsource-variable/inter";
+
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #E63B2E;
+  --color-brand-dark: #BF2D22;
+  --color-brand-light: #FF5A4D;
+  --color-surface: #0F1117;
+  --color-surface-card: #1A1D27;
+  --color-text-primary: #F5F5F5;
+  --color-text-muted: #9CA3AF;
+  --font-display: "Barlow Condensed", sans-serif;
+  --font-body: "Inter Variable", sans-serif;
+}
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+	scroll-behavior: smooth;
+}
