@@ -10,7 +10,8 @@ const config = {
 			fallback: undefined,
 			pages: 'build',
 			assets: 'build',
-			precompress: true
+			precompress: true,
+			handleMissingId: 'warn'
 		}),
 		alias: {
 			$components: 'src/lib/components',
