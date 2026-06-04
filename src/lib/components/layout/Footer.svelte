@@ -18,10 +18,10 @@
 			<div>
 				<h2 class="text-white font-display text-2xl tracking-wide uppercase mb-6">Rychlé odkazy</h2>
 				<ul class="space-y-4">
-					<li><a href="#uvod" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Úvod</a></li>
-					<li><a href="#sluzby" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Služby</a></li>
-					<li><a href="#o-nas" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">O nás</a></li>
-					<li><a href="#kontakt" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Kontakt</a></li>
+					<li><a href="/#uvod" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Úvod</a></li>
+					<li><a href="/#sluzby" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Služby</a></li>
+					<li><a href="/#o-nas" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">O nás</a></li>
+					<li><a href="/#kontakt" class="text-text-muted hover:text-brand transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1 -ml-1">Kontakt</a></li>
 				</ul>
 			</div>
 

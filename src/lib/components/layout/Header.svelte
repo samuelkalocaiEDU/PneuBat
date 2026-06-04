@@ -23,10 +23,10 @@
 
 			<!-- Desktop Nav -->
 			<nav class="hidden md:flex items-center gap-8" aria-label="Hlavní navigace">
-				<a href="#uvod" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Úvod</a>
-				<a href="#sluzby" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Služby</a>
-				<a href="#o-nas" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">O nás</a>
-				<a href="#kontakt" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Kontakt</a>
+				<a href="/#uvod" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Úvod</a>
+				<a href="/#sluzby" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Služby</a>
+				<a href="/#o-nas" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">O nás</a>
+				<a href="/#kontakt" class="text-text-primary hover:text-brand font-medium transition-colors focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm px-1">Kontakt</a>
 			</nav>
 
 			<!-- Desktop CTA -->
@@ -61,10 +61,10 @@
 		aria-hidden={!menuOpen}
 	>
 		<nav class="flex flex-col px-4 pt-2 pb-6 space-y-4" aria-label="Mobilní navigace">
-			<a href="#uvod" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Úvod</a>
-			<a href="#sluzby" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Služby</a>
-			<a href="#o-nas" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>O nás</a>
-			<a href="#kontakt" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Kontakt</a>
+			<a href="/#uvod" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Úvod</a>
+			<a href="/#sluzby" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Služby</a>
+			<a href="/#o-nas" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>O nás</a>
+			<a href="/#kontakt" class="text-text-primary hover:text-brand font-medium py-2 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand rounded-sm" onclick={closeMenu}>Kontakt</a>
 			<a href="tel:+420602427504" class="inline-flex items-center justify-center gap-2 bg-brand text-white px-4 py-3 font-display text-xl font-bold rounded-sm mt-4 focus:outline-hidden focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2 focus-visible:ring-offset-surface">
 				<Icon name="phone" class="w-6 h-6" />
 				+420 602 427 504
